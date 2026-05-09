@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "title": "Wireless Noise-Cancelling Headphones",
+        "price": 299.99,
+        "description": "High-fidelity audio with advanced active noise cancellation and 30-hour battery life.",
+        "rating": 4.8,
+        "category": "Electronics",
+        "image": "assets/headphones.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Minimalist Leather Wallet",
+        "price": 45.0,
+        "description": "Slim top-grain leather wallet with RFID protection and space for 8 cards.",
+        "rating": 4.5,
+        "category": "Accessories",
+        "image": "assets/wallet.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Electric Gooseneck Kettle",
+        "price": 89.0,
+        "description": "Precision pour spout and temperature control for the perfect pour-over coffee.",
+        "rating": 4.9,
+        "category": "Kitchen",
+        "image": "assets/kettle.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Ergonomic Mechanical Keyboard",
+        "price": 150.0,
+        "description": "Hot-swappable switches with RGB backlighting and programmable macro keys.",
+        "rating": 4.7,
+        "category": "Computing",
+        "image": "assets/keyboard.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Stainless Steel Water Bottle",
+        "price": 25.5,
+        "description": "Double-wall vacuum insulated bottle that keeps drinks cold for 24 hours.",
+        "rating": 4.6,
+        "category": "Outdoors",
+        "image": "assets/waterbottle.jpg"
+    }
+]
